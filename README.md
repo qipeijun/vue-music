@@ -1,5 +1,7 @@
 # vue-music
 
+### [Demo](https://qipeijun.github.io/vue-music/music/)
+
 > A Vue.js project
 
 ## Build Setup
