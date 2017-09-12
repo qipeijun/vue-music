@@ -2,7 +2,7 @@
  * @Author: qipeijun 
  * @Date: 2017-08-26 16:05:52 
  * @Last Modified by: 
- * @Last Modified time: 2017-08-26 17:23:47
+ * @Last Modified time: 2017-08-27 19:04:31
  */
 
 <template>
@@ -74,7 +74,8 @@ export default {
           'fullScreen',
           'playList',
       ])
-  }
+  },
+  
 }
 </script>
 
